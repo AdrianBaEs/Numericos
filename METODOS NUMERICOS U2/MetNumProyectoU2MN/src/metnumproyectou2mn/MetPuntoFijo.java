@@ -9,6 +9,7 @@ package metnumproyectou2mn;
  * @author Adrian
  */
 public class MetPuntoFijo {
+    //Autor: Luis Adrian Balam Espadas.
     //Atributos de la clase para la resolución...
     private int numIteracion;
     private double valorXi;
